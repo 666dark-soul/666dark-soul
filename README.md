@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="name.svg" alt="Gurupraman G" />
+  <img src="Name.svg" alt="Gurupraman G" />
 </h1>
 
 ## Hey! 👋
