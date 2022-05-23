@@ -9,12 +9,12 @@ I'm Gurupraman G, A Software Developer from Nowhere.
 ## Currently
 
 ## Skills
-- C
-- C++
-- Java
+- :skull_and_crossbones: C
+- :skull: C++
+- :alien: Java
+- :robot: Python
 - ⚙ Shell Script
-- 👁️ Python
-- 💽 Linux
+- :desktop_computer: Linux
 
 ## Contact
 - gurupraman@yahoo.com
