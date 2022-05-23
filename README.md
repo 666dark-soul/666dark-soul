@@ -7,6 +7,8 @@ I'm Gurupraman G, A Software Developer from Nowhere.
 
 
 ## Currently
+Working as a Dev who builts kernels and Linux debugging Linux kernels.
+
 
 ## Skills
 - :skull_and_crossbones: C
