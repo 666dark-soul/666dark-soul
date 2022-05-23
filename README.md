@@ -18,4 +18,4 @@ I'm Gurupraman G, A Software Developer from Nowhere.
 
 ## Contact
 - gurupraman@yahoo.com
-~                                                                                             
+                                                                                       
